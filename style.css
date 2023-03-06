@@ -1,0 +1,86 @@
+body{ /*stile del body*/
+    background-image: url("./background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.contenitore{/*contenitore di informazioni*/
+    background-color: rgba(0, 0, 0, 0.55);
+    width: 1000px;
+    height: 685px;
+    border-radius: 2%;
+    margin: auto;
+}
+
+header{
+    padding-top: 80px;
+    text-align: center;
+}
+
+.logo{
+    width: 190px;
+    height: 90px;
+    margin: auto;
+}
+
+.titolo{
+    font-size: 30px;
+    color: rgba(0,221,0,255);
+    margin: auto;
+}
+
+.riga{
+    background-color: rgba(0,221,0,255);
+    width: 800px;
+    height: 3s5px;
+    line-height: 35px;
+    margin:auto;
+}
+
+main{ /*corpo principale della pagina*/
+    position: absolute;
+    color: white;
+    width: 800px;
+    height: 360px;
+    margin-left: 100px;
+    margin-top: 16px;
+    font-size: 13px;
+}
+
+div{
+    margin-bottom: 22px;
+}
+
+.checkbox{
+    display: inline-block;
+    width: 11px;
+    height: 11px;
+}
+
+h2{
+    display: inline-block;
+    margin: auto;
+}
+
+p{
+    margin: auto;
+}
+
+.carica{ /*carica delle batterie*/
+    background-color: rgba(245,180,83,255) ;
+    width: 280px;
+    height: 24px;
+    border-radius: 4px;
+}
+
+.Mike24{
+    background-color: rgba(30,195,30,255) ;
+    width:480px ;  
+}
+
+.Fede154{
+    background-color: rgba(190,65,65,255) ;
+    width:120px ;
+}
